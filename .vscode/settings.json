@@ -1,0 +1,8 @@
+{
+    "DockerRun.DisableDockerrc": true,
+    "DockerRun.Containers": [
+        "c114a34cb215",
+        "d975a12b62f0"
+    ],
+    "python.pythonPath": "venv\\Scripts\\python.exe"
+}
